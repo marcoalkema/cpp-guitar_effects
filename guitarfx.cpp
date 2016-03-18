@@ -1,11 +1,8 @@
 #include <iostream>
-#include "smurf.h"
-#include "tremolo.h"
-#include "amplifier.h"
 #include "distortion.h"
 #include "delay.h"
 #include "ringModulator.h"
-#include "osc.h"
+#include "lib/osc/osc.h"
 
 using namespace std;
 

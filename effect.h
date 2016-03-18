@@ -1,7 +1,7 @@
 #ifndef _EFFECT_H_
 #define _EFFECT_H_
 
-#include "audio_io.h"
+#include "lib/audio_IO/audio_io.h"
 
 #define SAMPLERATE		44100
 #define NROFCHANNELS		1
